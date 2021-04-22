@@ -292,5 +292,11 @@ Participate in our monthly online hackathons & weekly meetups. Click here for mo
 
 Please visit our GitHub repository: https://github.com/ClointFusion/ClointFusion
 
+# Website:
+For more infomation about ClointFusion visit our website: https://clointfusion.com
+
+# Linkedin Profile: 
+https://www.linkedin.com/company/clointfusion/
+
 # Contact us: 
-Drop a mail to ClointFusion@cloint.com, ClointFusion@gmail.com
+Drop a mail to clointfusion@cloint.com
